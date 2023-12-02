@@ -11,14 +11,29 @@ body {
     top: 0;
     left: 0;
     background-color: #000;
-    animation: color-fade 5s infinite ease-in-out;
+    animation: color-fade 10s infinite ease-in-out;
 }
 
 @keyframes color-fade {
     0% {
         background-color: #000;
     }
-    100% {
+    45% {
         background-color: #fff;
+    }
+    46% {
+        background-color: #f00;
+    }
+    50% {
+        background-color: #00f;
+    }
+    55% {
+        background-color: #ff0;
+    }
+    95% {
+        background-color: #000;
+    }
+    100% {
+        background-color: #000;
     }
 }
