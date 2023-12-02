@@ -10,7 +10,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #000;
+    background-color: #000000;
     animation: color-fade 10s infinite ease-in-out;
 }
 
