@@ -16,24 +16,24 @@ body {
 
 @keyframes color-fade {
     0% {
-        background-color: #000;
+        background-color: #000000;
     }
     45% {
-        background-color: #fff;
+        background-color: #ffffff;
     }
     46% {
-        background-color: #f00;
+        background-color: #ff0000;
     }
     50% {
-        background-color: #00f;
+        background-color: #0000ff;
     }
     55% {
-        background-color: #ff0;
+        background-color: #ffff00;
     }
     95% {
-        background-color: #000;
+        background-color: #000000;
     }
     100% {
-        background-color: #000;
+        background-color: #000000;
     }
 }
