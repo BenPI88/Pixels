@@ -1,7 +1,7 @@
 const container = document.getElementById('container');
 
 const colors = [
-    '#000',
+    '#000000',
     '#ff0000',
     '#ffff00',
     '#00ff00',
